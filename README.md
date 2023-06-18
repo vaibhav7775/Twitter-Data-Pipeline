@@ -6,3 +6,4 @@ In this project I created a fully automated pipeline that loads tweets data from
 This process runs over a certain interval of time. This  is scheduled via airflow jobs which are deployed over AWS EC2 instances.
 
 
+PS : This project is insprired from project on youtube channel of Darshil Parmar.
